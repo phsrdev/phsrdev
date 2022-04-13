@@ -1,9 +1,8 @@
-##  🤓Olá, eu sou o Pedro! Seja bem vindo ao meu GitHub! 
- -👩🏻‍💻 Estudante = Oracle Next Education / Alura
+## Olá, 🌎! Seja bem vindo ao meu GitHub! 
+ -👨🏻‍🎓 Estudante = Oracle Next Education / Alura
  
- -🙋🏻‍♀️ Estudante = Front-end (HTML, CSS E JS)
+ -👨‍💻 Estudante = Front-end (HTML, CSS, JS E Python)
  
- -🙇🏻‍♀️ Estudante = (Python)
 
 <div align="center">
   <a href="https://github.com/phsrdev">
