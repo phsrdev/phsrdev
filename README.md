@@ -6,9 +6,9 @@
  -🙇🏻‍♀️ Estudante = (Python)
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/phsrdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phsrdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsrdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/ForcefulNaturalDesertpupfish-size_restricted.gif%22%3E">
+  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="http://pm1.narvii.com/7222/c7d566fe8817bf4d552ea814c298c33d41c446b0r1-347-424v2_00.jpg">
 </div>
 
   ##
