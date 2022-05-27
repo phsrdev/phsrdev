@@ -15,6 +15,7 @@
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 
   <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="http://pm1.narvii.com/7222/c7d566fe8817bf4d552ea814c298c33d41c446b0r1-347-424v2_00.jpg">
 </div>
