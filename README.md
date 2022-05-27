@@ -1,7 +1,10 @@
 ## Olá, 🌎! Seja bem vindo ao meu GitHub! 
  -👨🏻‍🎓 Instituto Politécnico de Viseu 📚 ESTGV 📚 ⚙ Engenharia Informática 💻
+ 
  -👨🏻‍🎓 Oracle Next Education / Alura
+ 
  -👨‍💻 Desenvolvedor Full Stack (HTML, CSS, JS, Python E Node.js)
+ 
  -👨‍💻 Estudante = DataScience (Python, Pandas, NumPy)
  
  
